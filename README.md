@@ -22,7 +22,6 @@
   <br>
   <br>
 </p>
-
 <p align="center">
   <a href="https://circleci.com/gh/angular/workflows/angular/tree/main">
     <img src="https://img.shields.io/circleci/build/github/angular/angular/main.svg?logo=circleci&logoColor=fff&label=CircleCI" alt="CI status" />
